@@ -97,7 +97,7 @@ body {
 .square p {
   display: block;
   width: 100%;
-  font-size: 4.5cqmin;
+  font-size: 1.7cqmax;
   position: absolute;
   top: 0;
   left: 0;
